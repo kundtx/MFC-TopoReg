@@ -1,4 +1,4 @@
-This folder contains the code for the paper _'Learning Persistent Community Structures in Dynamic Networks via Topological Data Analysis'_, submitted to The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.
+This is the official pytorch implementation of Paper _'Learning Persistent Community Structures in Dynamic Networks via Topological Data Analysis'_, accepted by The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 ## Setup
 
@@ -28,3 +28,14 @@ This folder contains the code for the paper _'Learning Persistent Community Stru
 ## Run
 * Folder "Experiments": contains all code (Python / Jupyter Notebook) for producing the results in the experiments
 * Training procedure was performed  with a NVIDIA 3090 GPU on PyTorch platfom.
+
+## Citation
+if you find our work useful in your research, please consider citing:
+```
+@article{Zhang_2023_BMVC, 
+   author = {Dexu Kong and Anping Zhang and Yang Li}, 
+   title = {Learning Persistent Community Structures in Dynamic Networks via Topological Data Analysis}, 
+   journal={AAAI 2024},
+   year = {2023}, 
+} 
+```
