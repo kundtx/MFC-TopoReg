@@ -32,7 +32,7 @@ This is the official pytorch implementation of Paper _'Learning Persistent Commu
 ## Citation
 if you find our work useful in your research, please consider citing:
 ```
-@article{Zhang_2023_BMVC, 
+@article{kong2023toporeg, 
    author = {Dexu Kong and Anping Zhang and Yang Li}, 
    title = {Learning Persistent Community Structures in Dynamic Networks via Topological Data Analysis}, 
    journal={AAAI 2024},
